@@ -69,7 +69,7 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 </div>
 </div>
 -->
-- Zequn Wei, Jianing Yu, Jin-Kao Hao, **Jintong Ren**. Adaptive neighborhood reduction-based memetic algorithm for the set-union knapsack problem, [Swarm and Evolutionary Computation](https://www.sciencedirect.com/science/article/pii/S221065022600009X), Volume 101, 2026, 102289.
+- Zequn Wei, Jianing Yu, Jin-Kao Hao, **Jintong Ren**. Adaptive neighborhood reduction-based memetic algorithm for the set-union knapsack problem, [Swarm and Evolutionary Computation](https://www.sciencedirect.com/science/article/pii/S221065022600009X), 2026, 101:102289.
 - Zequn Wei, Junhao Li, **Jintong Ren***, Yawen Li, Xin Lyu. Frequency-Driven Variable Neighborhood Search for the Unmanned Agricultural Machinery Scheduling Problem, 2025 IEEE International Conference on Unmanned Systems [(ICUS)](https://ieeexplore.ieee.org/abstract/document/11294811), Changzhou, China, 2025, pp. 1855-1861.
 - Yawen, Xin Lyu, Zequn Wei, Guanhua Ye, **Jintong Ren**. A Memetic Algorithm for the Capacity-Constrained Community Detection Problem in Social Networks, 2025 IEEE Congress on Evolutionary Computation [(CEC)](https://ieeexplore.ieee.org/abstract/document/11043121), Hangzhou, China, 2025, pp. 1-4.
 - Zequn Wei, Jianing Yu, **Jintong Ren***, Wei Duan and Dexin Wu. Progressive Simulated Annealing Algorithm for the Pipeline Allocation Problem of Protocol Independent Switch Architecture Chips, 2024 6th International Conference on Data-driven Optimization of Complex Systems [(DOCS)](https://ieeexplore.ieee.org/abstract/document/10704552), Hangzhou, China, 2024, pp. 243-249.
