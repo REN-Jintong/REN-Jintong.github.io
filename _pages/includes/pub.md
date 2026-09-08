@@ -69,6 +69,7 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 </div>
 </div>
 -->
+- Jintong Ren, Jin-Kao Hao, Eduardo Rodriguez-Tello, Zequn Wei. A double-stage heuristic algorithm for the antibandwidth maximization problem via the linear bottleneck assignment optimization, [Computers & Operations Research](https://www.sciencedirect.com/science/article/pii/S0305054826002509), 2026, 195:107632.
 - Zequn Wei, Jianing Yu, Jin-Kao Hao, **Jintong Ren**. Adaptive neighborhood reduction-based memetic algorithm for the set-union knapsack problem, [Swarm and Evolutionary Computation](https://www.sciencedirect.com/science/article/pii/S221065022600009X), 2026, 101:102289.
 - Zequn Wei, Junhao Li, **Jintong Ren***, Yawen Li, Xin Lyu. Frequency-Driven Variable Neighborhood Search for the Unmanned Agricultural Machinery Scheduling Problem, 2025 IEEE International Conference on Unmanned Systems [(ICUS)](https://ieeexplore.ieee.org/abstract/document/11294811), Changzhou, China, 2025, pp. 1855-1861.
 - Yawen Li, Xin Lyu, Zequn Wei, Guanhua Ye, **Jintong Ren**. A Memetic Algorithm for the Capacity-Constrained Community Detection Problem in Social Networks, 2025 IEEE Congress on Evolutionary Computation [(CEC)](https://ieeexplore.ieee.org/abstract/document/11043121), Hangzhou, China, 2025, pp. 1-4.
